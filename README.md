@@ -33,36 +33,10 @@ This app demonstrates professional UI/UX practices, seamless authentication, and
 - **State Management:** Provider / Riverpod (based on your setup)  
 - **Other:** Google Fonts, Material Design  
 
----
-
-## 🚀 Getting Started
-
 ### Prerequisites
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) installed  
 - A [Supabase](https://supabase.com) project with authentication enabled  
 
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/BrightFK/E-Commerce.git
-
-# Navigate into the project
-cd E-Commerce
-
-# Get dependencies
-flutter pub get
-
-# Run the app
-flutter run
-📂 Project Structure
-bash
-Copy
-Edit
-lib/
- ┣ core/         # Utilities & constants
- ┣ screens/      # App screens (Home, Login, etc.)
- ┣ widgets/      # Reusable widgets
- ┗ main.dart     # App entry point
 🤝 Contributing
 Contributions are welcome! Feel free to fork this repo and submit a PR.
 
@@ -74,18 +48,3 @@ BrightFK
 
 ⭐ If you like this project, don’t forget to star the repo!
 
-yaml
-Copy
-Edit
-
----
-
-Would you like me to also **add badges** (like Flutter version, Supabase, Stars, Forks, etc.) at the top so your README looks even more “pro” like open-source projects?
-
-
-
-
-
-
-
-Ask ChatGPT
